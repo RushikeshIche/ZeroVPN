@@ -1,0 +1,1 @@
+Let's start reading about VPN internals here - https://medium.com/@bvenom87/️-building-a-simple-vpn-from-scratch-in-c-beginner-friendly-using-tun-interfaces-42719164b858
